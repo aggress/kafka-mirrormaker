@@ -1,5 +1,5 @@
 # kafka-mirrormaker
-Configs and notes for running Kafka Mirrormaker
+Configs and notes for running Kafka Mirrormaker on Mesosphere DC/OS
 
 ## References
 
